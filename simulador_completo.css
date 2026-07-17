@@ -103,3 +103,11 @@
       margin-top: 10px;
     }
   
+    .aprobado {
+    color: green;
+    border: 2px solid green;
+    }
+    .rechazado {
+    color: red;
+    border: 2px solid red;
+    }
